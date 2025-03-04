@@ -12,7 +12,7 @@
 
 📱 **Responsive** | 🎨 **Interactive** | ⚡ **High Performance** | 🌐 **Cross Browser**
 
-[✨ Live Demo](https://landing-lime-one.vercel.app/) ·
+[✨ Live Demo](https://studiosghibli.netlify.app/) ·
 
 </div>
 
@@ -83,4 +83,5 @@ Inspired by the timeless works of Studio Ghibli
 </p>
 
 ![Footer Image](/public//img/haku.webp)
+
 # studios-ghibli
